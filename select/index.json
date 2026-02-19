@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "No way to say",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2026-02-19T16:15:20.096875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No way to say",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/01_No_way_to_say_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NO WAY TO SAY",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/02_NO_WAY_TO_SAY_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No way to say",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/03_No_way_to_say_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No way to say",
+      "artist": "Hamasaki Ayumi",
+      "has_synced": true,
+      "path": "select/04_No_way_to_say_Hamasaki_Ayumi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No way to say",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/05_No_way_to_say_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Way To Say",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/06_No_Way_To_Say_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No way to say",
+      "artist": "滨崎步",
+      "has_synced": true,
+      "path": "select/07_No_way_to_say_滨崎步.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey, That's No Way to Say Goodbye",
+      "artist": "IMA",
+      "has_synced": false,
+      "path": "select/08_Hey,_That's_No_Way_to_Say_Goodbye_IMA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No way to say",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/09_No_way_to_say_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No way to say",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/10_No_way_to_say_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No way to say",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/11_No_way_to_say_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey, That's No Way to Say Goodbye",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/12_Hey,_That's_No_Way_to_Say_Goodbye_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey, That's No Way To Say Goodbye",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/13_Hey,_That's_No_Way_To_Say_Goodbye_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No way to say",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/14_No_way_to_say_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No way to say",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_No_way_to_say_浜崎_あゆみ.txt"
+    }
+  ]
+}
